@@ -60,6 +60,7 @@ Routes are grouped under `/workflows`.
 ---
 
 ## Sample Requests
+[See Test Cases → Test_JSONs.md](./Test_JSONs.md)
 
 ### Create a Workflow
 
